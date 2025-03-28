@@ -1,6 +1,8 @@
 # The implications of incongruence between gene tree and species tree topologies for divergence time estimation
 The scripts presented here are relevent to the article: [Carruthers et al. The implications of incongruence between gene tree and species tree topologies for divergence time estimation. Syst Biol.](https://doi.org/10.1093/sysbio/syac012)  
 
+A user friendly version of the method that gets branch lengths from congruent branches across all gene tree is [here](https://github.com/TomCarr/GetCongruentBranches)
+
 ## Simple four taxon
 ### To generate simulated data run [simlpe_four_taxon_simulation.R](https://github.com/pebgroup/tree_incongruence_divergence_times/blob/master/simple_four_taxon/simple_four_taxon_simulation.R).
 ##### _Arguments:_
